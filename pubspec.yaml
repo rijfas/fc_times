@@ -1,0 +1,61 @@
+name: fc_times
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 2.2.0+5
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^0.1.3
+  url_launcher: ^5.5.0
+  shared_preferences: ^0.5.8
+  flutter_spinkit: ^4.1.2+1
+  rflutter_alert: ^1.0.3
+  http: ^0.12.2
+  flutter_swiper: ^1.1.6
+  curved_navigation_bar: ^0.3.3
+  flutter_svg: ^0.18.1
+  flare_flutter: ^2.0.6
+  animated_text_kit: ^2.2.0
+  
+
+
+  
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/rajagate_image.svg
+    - assets/images/holiday.png
+    - assets/images/welcome_screen.svg
+    - assets/images/background.jpg
+    - assets/images/emblem.jpeg
+    - assets/icons/rajagate_icon.svg
+    - assets/flares/rajagate.flr
+    
+
+  
+  fonts:
+    - family: Catamaran
+      fonts:
+        - asset: assets/fonts/Catamaran-Regular.ttf
+  
