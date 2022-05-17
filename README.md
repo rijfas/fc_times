@@ -8,7 +8,7 @@ An all in one solution for farookians!
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/rijfas/fc_times.svg?style=social&label=Star)](https://github.com//rijfas/fc_times) ![GitHub forks](https://img.shields.io/github/forks/rijfas/fc_times.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/rijfas.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/rijfas/fc_times.svg?style=social&label=Star)](https://github.com/rijfas/fc_times) ![GitHub forks](https://img.shields.io/github/forks/rijfas/fc_times.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/rijfas.svg?style=social&label=Follow)
 
 ## Download
 
